@@ -3,11 +3,10 @@ interface User {
   age: number,
 };
 
-
 interface Admin {
-  name: string;
-  age: number;
-  role: string;
+  name: string,
+  age: number,
+  role: string,
 }
 
 interface Person {
